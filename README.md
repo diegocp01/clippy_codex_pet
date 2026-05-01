@@ -25,3 +25,5 @@ Codex -> Settings -> Appearance -> Pets
 
 4. In Codex, type `/pet` to bring Clippy to life.
 5. Type `/pet` again to hide Clippy.
+
+**Learn More about Codex Pets:** https://developers.openai.com/codex/app/settings#codex-pets
