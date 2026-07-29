@@ -2,5 +2,6 @@
   "id": "clippy",
   "displayName": "Clippy",
   "description": "A tiny Clippy-inspired paperclip helper with big eyes and a yellow note prop.",
-  "spritesheetPath": "spritesheet.webp"
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet-4ccb43ad-artifact-fixed.png"
 }
